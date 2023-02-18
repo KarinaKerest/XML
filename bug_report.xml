@@ -1,1 +1,20 @@
 
+<bug_report>
+  <title>Unable to login</title>
+  <description>I am unable to login to the application using my correct credentials. After entering my username and password, the login page just reloads without any error message or indication that I have logged in. This issue is occurring consistently and preventing me from using the application.</description>
+  <steps_to_reproduce>
+    <step>Navigate to the login page</step>
+    <step>Enter username and password</step>
+    <step>Click on the login button</step>
+    <step>Page reloads without logging me in</step>
+  </steps_to_reproduce>
+  <expected_result>After entering my correct credentials and clicking on the login button, I should be taken to the main page of the application and be logged in.</expected_result>
+  <actual_result>The page just reloads without logging me in, with no error message or indication that I have logged in.</actual_result>
+  <priority>High</priority>
+  <severity>Critical</severity>
+  <environment>
+    <browser>Chrome</browser>
+    <operating_system>Windows 10</operating_system>
+    <device>Desktop</device>
+  </environment>
+</bug_report>
