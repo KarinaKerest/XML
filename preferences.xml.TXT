@@ -1,0 +1,7 @@
+<preferences>
+  <favorite_movie>The Godfather</favorite_movie>
+  <favorite_series>Breaking Bad</favorite_series>
+  <favorite_food>Pizza</favorite_food>
+  <favorite_season>Autumn</favorite_season>
+  <place_to_visit>Japan</place_to_visit>
+</preferences>
